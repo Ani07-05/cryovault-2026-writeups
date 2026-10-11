@@ -131,11 +131,6 @@ the challenge; the real CTFd name is `tearing`, renamed to match.)
 |---|---|---|
 | [Sanity Check](misc/sanity-check) | 50 | Anirudh |
 
-### Not in this repo
-
-`ouroboros` (pwn/misc, 476pts, "Hand it 32 bytes. It will tell you nope.") never got a flag -- the
-session pivoted away from it to Draftpad. It is **not** a solved challenge, despite a folder in
-this repo's history once carrying its name by mistake (now renamed to `draftpad`).
 
 ## Layout
 
