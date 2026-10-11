@@ -1,0 +1,6 @@
+b=open(r"C:\Users\Aniruddh\AppData\Local\Temp\claude\C--Users-Aniruddh-Downloads-cryovaultpes\a4ff2c31-9d0f-4050-ba50-09bc8e2d4496\scratchpad\apk\res\mipmap-mdpi-v4\ic_launcher.png",'rb').read()
+print(len(b))
+print(b[:8].hex())
+i=b.find(b'IEND')
+print('IEND at',i,'file len',len(b))
+print(b)
